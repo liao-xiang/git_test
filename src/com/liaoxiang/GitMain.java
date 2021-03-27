@@ -6,5 +6,6 @@ public class GitMain {
         //https://github.com/liao-xiang/git_test.git
         System.out.println("Git");
         System.out.println("Hehe");
+        System.out.println("Haha");
     }
 }
